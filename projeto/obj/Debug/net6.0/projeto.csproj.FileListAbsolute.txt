@@ -1,0 +1,15 @@
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\bin\Debug\net6.0\projeto.exe
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\bin\Debug\net6.0\projeto.deps.json
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\bin\Debug\net6.0\projeto.runtimeconfig.json
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\bin\Debug\net6.0\projeto.dll
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\bin\Debug\net6.0\ref\projeto.dll
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\bin\Debug\net6.0\projeto.pdb
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\obj\Debug\net6.0\projeto.csproj.AssemblyReference.cache
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\obj\Debug\net6.0\projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\obj\Debug\net6.0\projeto.AssemblyInfoInputs.cache
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\obj\Debug\net6.0\projeto.AssemblyInfo.cs
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\obj\Debug\net6.0\projeto.csproj.CoreCompileInputs.cache
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\obj\Debug\net6.0\projeto.dll
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\obj\Debug\net6.0\ref\projeto.dll
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\obj\Debug\net6.0\projeto.pdb
+C:\Users\Oséias A.Freires\Desktop\TreinamentoGama\treinamentocSharp\projeto\obj\Debug\net6.0\projeto.genruntimeconfig.cache
